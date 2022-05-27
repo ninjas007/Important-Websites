@@ -1,8 +1,3 @@
-MDB5
-Version: FREE 4.1.0
+akses
 
-Documentation:
-https://mdbootstrap.com/docs/standard/
-
-Contact:
-office@mdbootstrap.com
+https://ninjas007.github.io/Important-Websites/
